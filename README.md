@@ -1,7 +1,7 @@
 # Hora-do-Game
 Site de jogos educacionais infantis.
 
-3 GitHub Pages
+# GitHub Pages
 
 # Checkist
 
