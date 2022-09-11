@@ -2,6 +2,7 @@
 Site de jogos educacionais infantis.
 
 # GitHub Pages
+https://rafaelhorst.github.io/Hora-do-Game/
 
 # Checkist
 
